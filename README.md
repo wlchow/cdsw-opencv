@@ -76,3 +76,8 @@ In Docker Hub
 ### 10) Test it out
 ![Image CDSW 03](images/cdsw_03.png)
 
+## References & Links:
+
+https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_extensible_engines.html
+http://blog.cloudera.com/blog/2017/09/customizing-docker-images-in-cloudera-data-science-workbench/
+
